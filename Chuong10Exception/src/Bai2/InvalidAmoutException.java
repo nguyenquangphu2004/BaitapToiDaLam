@@ -1,8 +1,8 @@
 package Bai2;
 
-public class InvalidAmoutException extends Exception {
-    private int invalidAmount;
+public class InvalidAmoutException extends Exception{
 
+    private int invalidAmount;
     public InvalidAmoutException() {
 
     }
